@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&theme=dark)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&theme=dark)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&theme=dark)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&theme=dark)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML&logoColor=white&theme=dark)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&theme=dark)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&theme=dark)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&theme=dark)
