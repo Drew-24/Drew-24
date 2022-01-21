@@ -4,10 +4,10 @@
  
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=Drew-246&label=Profile%20views&color=0e75b6&style=flat" alt="Drew-24" /> </h3>
 
-- 👋 My name is Andrew Gonzalez, and i live in Puerto Rico.🇵🇷
-- 👀 I’m interested in programming, music, gaming and God.
-- 🌱 I’m currently learning Software Engineering.
-- 🌎 I’m looking to collaborate on something that can make me go off-limits.
+- 👋 My name is Andrew Gonzalez, and I'm Puertorican.🇵🇷
+- 👀 I’m interested in programming, music, gaming, comics and God.
+- 🌱 I always dedicate all my work to God and give Him all Glory.
+- 🌎 I’m ready to learn everything that I can expanding my mind.
 - 📫 You can reach me on Facebook, LinkedIn or Instagram.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
