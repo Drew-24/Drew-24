@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats <img src = "https://c.tenor.com/5CbhkkzdCSMAAAAi/bar-chart-objects.gif" width =32px/>
 <br>
 
 <a href="https://github.com/Drew-24">
