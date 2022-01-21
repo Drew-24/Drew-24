@@ -46,6 +46,5 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
----
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drew-24&bg_color=000000&color=4fff67&line=4fff67&point=fffff&area=true&hide_border=true)
