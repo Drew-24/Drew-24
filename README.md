@@ -34,10 +34,18 @@ You can click the Preview link to take a look at your changes.
 
                                                                                                                                          
 ## &#x1f4c8; GitHub Stats
+<br>
 
-![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-24&theme=dark&show_icons=true)
+<a href="https://github.com/Drew-24">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-24&theme=dark&show_icons=true" />
+</a>
 
+<a href="https://github.com/Drew-24">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Drew-24&theme=dark&show_icons=true" alt="Drew's GitHub Stats" />
+</a>
 
+<br>
+<br>
 ---
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drew-24&bg_color=000000&color=4fff67&line=4fff67&point=fffff&area=true&hide_border=true)
