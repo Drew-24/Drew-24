@@ -27,8 +27,6 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c++)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
