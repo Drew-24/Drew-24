@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Nodejs](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 
 ## GitHub Stats <img src = "https://c.tenor.com/5CbhkkzdCSMAAAAi/bar-chart-objects.gif" width =32px/>
 <br>
