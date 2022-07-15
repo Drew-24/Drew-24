@@ -8,12 +8,13 @@
 - 👀 I’m interested in programming, music, gaming, comics and God.
 - 🌱 I always dedicate all my work to God and give Him all Glory.
 - 🌎 I’m ready to learn everything that I can expanding my mind.
-- 📫 You can reach me on Facebook, LinkedIn or Instagram.
+- 📫 You can reach me on Facebook, LinkedIn, Instagram or Twitter.
 
 <h2> Find me here <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href=https://www.linkedin.com/in/andrew-gonzález-13b303215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew Gonzalez" height="30" width="40" /></a> 
 <a href="https://instagram.com/_drew_24_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://facebook.com/Awgon24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://twitter.com/eldrew24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
  
 </p>
 
@@ -27,11 +28,16 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ## GitHub Stats <img src = "https://c.tenor.com/5CbhkkzdCSMAAAAi/bar-chart-objects.gif" width =32px/>
 <br>
