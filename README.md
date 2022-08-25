@@ -1,4 +1,4 @@
-<img src=https://img.search.brave.com/TzOwej2-1z0dfTJWV0E7nDbaAfAh_MRu0zVumkalWfk/rs:fit:540:260:1/g:ce/aHR0cDovL3BhMS5u/YXJ2aWkuY29tLzYw/NzMvYWM3MjI3NDdl/OTJkNTc0ZTFkZmQ4/OWM4NzUxYTE2ZmUw/NjA2M2UwNl9ocS5n/aWY.gif width=900 height=500/>
+<img src=https://img.search.brave.com/TzOwej2-1z0dfTJWV0E7nDbaAfAh_MRu0zVumkalWfk/rs:fit:540:260:1/g:ce/aHR0cDovL3BhMS5u/YXJ2aWkuY29tLzYw/NzMvYWM3MjI3NDdl/OTJkNTc0ZTFkZmQ4/OWM4NzUxYTE2ZmUw/NjA2M2UwNl9ocS5n/aWY.gif width=auto height=500/>
 <h1 align="center">Hi! <img src = "https://c.tenor.com/H4h_7mBCu7wAAAAi/peace-peace-out.gif" width = 35px> I'm Drew <img src = "https://c.tenor.com/s4yHddWuaDIAAAAi/glasses-shades-on.gif" width = 35px></h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 <a href='https://github.com/Drew-24/Drew-24/blob/master/Andrew%20Resume.pdf'><img align="center" src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
